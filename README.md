@@ -4,7 +4,7 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/hookrelay-cli.svg)](https://pypi.org/project/hookrelay-cli/)
 [![GitHub stars](https://img.shields.io/github/stars/uchiha-fire/hookrelay-cli?style=social)](https://github.com/uchiha-fire/hookrelay-cli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Sharma-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sharma-28487819b/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/uchiha-fire/hookrelay-cli/blob/main/LICENSE)
 [![Zephyrus Labs](https://img.shields.io/badge/Developed%20by-Zephyrus%20Labs-6366f1.svg)](https://zephyrus-labs.tech/)
 
 An interactive multi-webhook gateway, instant public HTTPS tunnel, and replay debugger by **[Zephyrus Labs](https://zephyrus-labs.tech/)** for Linux, macOS, and Windows.
@@ -199,7 +199,7 @@ This tool is built entirely on the Python standard library with zero runtime dep
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/uchiha-fire/hookrelay-cli/blob/main/LICENSE) file for details.
 
 ---
 
