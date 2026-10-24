@@ -17,6 +17,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="hookrelay",
         description="Interactive Multi-Webhook Gateway, HTTPS Tunnel & Replay Debugger by Zephyrus Labs",
+        epilog="Developed by Zephyrus Labs (https://zephyrus-labs.tech/)\nLead Developer: Shubham Sharma (https://www.linkedin.com/in/shubham-sharma-28487819b/)\nGitHub: https://github.com/uchiha-fire/hookrelay-cli",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument("-v", "--version", action="version", version=f"hookrelay-cli {VERSION}")

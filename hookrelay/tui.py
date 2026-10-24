@@ -106,6 +106,7 @@ class HookRelayTUI:
         lines.append("\n" + f"{DIM}─"*89 + f"{RESET}")
         lines.append(f" {BOLD}[↑/↓]{RESET} Navigate   {BOLD}[Enter]{RESET} Open Workspace   {BOLD}[n]{RESET} New Webhook   {BOLD}[p]{RESET} Pause/Resume")
         lines.append(f" {BOLD}[d/x]{RESET} Terminate Webhook   {BOLD}[c]{RESET} Copy URL   {BOLD}[q]{RESET} Quit")
+        lines.append(f" {DIM}Zephyrus Labs • Lead Developer: Shubham Sharma (https://www.linkedin.com/in/shubham-sharma-28487819b/){RESET}")
         return "\n".join(lines)
 
     def _render_workspace(self) -> str:
